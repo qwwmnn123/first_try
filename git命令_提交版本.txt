@@ -1,0 +1,4 @@
+$ git checkout -b feature 用来创建feature分支
+$ git commit 用来提交
+$ git switch main  用于回到主分支
+$ git merge feature 用来把feature分支  合并到main主分支上
